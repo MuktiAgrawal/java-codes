@@ -1,2 +1,2 @@
 # java-codes
-repo to store java codes
+repository to store java codes
